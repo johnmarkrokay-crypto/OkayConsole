@@ -10,7 +10,8 @@ namespace okyy2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HELLO KALIBUTAN");
+            Console.WriteLine("HELLO KALIBUTAN"); // Jabai
+            
         }
     }
 }
